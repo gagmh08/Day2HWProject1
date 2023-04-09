@@ -11,6 +11,8 @@ public class Day2Demo1 {
 	public void add2(int x, int z) {
 		
 		System.out.println(x+z);
+		
+		System.out.println("Test demo1");
 	}
 	
 }
